@@ -27,3 +27,4 @@ switch(new Date().getDay()){
           
 }
 console.log('today is',da);
+console.log('today is',da);
